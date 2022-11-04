@@ -1,0 +1,135 @@
+.colorblock1
+{
+        position:fixed;
+        top:0%;
+        left:0%;
+        width:100%;
+        padding:30px;
+        background-color:#272727;
+        z-index:999;
+}
+.colorblock2
+{
+        margin:30px auto;
+        width:1300px;
+        height:auto;
+        padding:30px;
+        background-color:rgba(100,100,100,0.5);
+        z-index:2;
+}
+.background1
+{
+        position:relative;
+        width:100%;
+        height:100%;
+}
+.background2
+{
+        background-image:url(images/background.jpg);
+        position:fixed;
+        top:93px;
+        left:0%;
+        width:100%;
+        height:655px;
+        z-index:-1;
+}
+.text1
+{
+        text-align:center;
+        font-family:Microsoft JhengHei;
+        font-size:30Px;
+}
+.text2
+{
+        text-align:center;
+        font-family:Microsoft JhengHei;
+        background-color:white;
+        padding:15px;
+        height:125px;
+}
+.text3
+{
+        text-align:center;
+        font-family:Microsoft JhengHei;
+        background-color:white;
+        padding:15px;
+        height:15px;
+}
+.homepage_title
+{
+        margin-top: 30%;
+        margin-right: 1500px; 
+        font-family:Microsoft JhengHei;
+        background-color:#272727;
+        width:300px;
+        height:110px;
+}
+.sub_title
+{
+        margin-left: 140px;
+        margin-bottom: 10px; 
+        font-family:Microsoft JhengHei;
+        font-weight:bold;
+        font-size:30px;
+}
+.login_text
+{
+        text-align:left;
+	font-family:Microsoft JhengHei;
+	font-size:27px;
+}
+.member_info
+{
+		margin:0px auto;
+                text-align:left;
+		font-family:Microsoft JhengHei;
+		font-size:27Px;
+		width:1000px;
+		height:90px;
+}
+.menu_gallery
+{
+        margin:7px;
+        border:1px solid;
+        float:left;
+        width:200px;
+}
+.info_gallery
+{
+        margin:0px auto;
+        border:3px solid;
+        width: 1010px;
+        background-color: white;
+}
+.login_gallery
+{
+        margin:0px auto;
+        border:3px solid;
+        width: 1010px;
+}
+.login_input
+{
+        margin:0px auto;
+        border:3px solid;
+        width: 1004px;
+        font-size:27px
+}
+.big_button
+{
+        margin:0px auto;
+        color:white;
+        border:2px blue none;
+        background-color:#e4002b;
+        font-size:20pt;
+        width:1014px;
+        height:45px;
+}
+.img-width{
+    position:fixed;
+    top:90px;
+    left:0%;
+    z-index:-1;
+    display: block;
+    width: 100%;
+    margin:0px auto;
+}
